@@ -33,6 +33,7 @@ proguard/
 
 # Android Studio captures folder
 captures/
+output.json
 
 # IntelliJ
 *.iml
@@ -88,12 +89,7 @@ lint/tmp/
 *.hprof
 
 # OpenCV SDK - Ignore large binary files
-sdk/native/
-sdk/build/
-sdk/.cxx/
-sdk/
-*.so
-*.a
+
 
 # Misc
 .DS_Store
