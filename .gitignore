@@ -16,4 +16,5 @@ local.properties
 sdk/native/staticlibs/armeabi-v7a/
 sdk/native/libs/
 gradle/wrapper/gradle-wrapper.jar
+sdk/
 
