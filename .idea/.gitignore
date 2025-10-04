@@ -91,6 +91,7 @@ lint/tmp/
 sdk/native/
 sdk/build/
 sdk/.cxx/
+sdk/
 *.so
 *.a
 
